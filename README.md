@@ -6,7 +6,7 @@ Outputs to **Excel (.xlsx)** or **CSV**.
 
 ## ✨ Features
 - Parse common log formats (bracketed `[YYYY-MM-DD HH:MM:SS] LEVEL: message` and space-delimited)
-- Include specific levels (default: `ERROR`,`WARNING` and `INFO`)
+- Include specific levels (default: `ERROR`,`WARNING`, and `INFO`)
 - Summary report with **Count**, **First Seen**, and **Last Seen**
 - Saves to **`johnny_log_parser_summary.xlsx`** (default) or CSV
 - Extra **Overview** sheet with high-level stats (when using `.xlsx`)
